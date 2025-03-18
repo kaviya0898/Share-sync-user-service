@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3550214c-bef1-4d0c-8735-ccbd26b27ec9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HELP.md" beforeDir="false" afterPath="$PROJECT_DIR$/HELP.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sharesync/sharesync_user_service/apiResponse/ApiResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sharesync/sharesync_user_service/apiResponse/ApiResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sharesync/sharesync_user_service/config/PasswordEncoderConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sharesync/sharesync_user_service/config/PasswordEncoderConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sharesync/sharesync_user_service/config/RabbitMqConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sharesync/sharesync_user_service/config/RabbitMqConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sharesync/sharesync_user_service/config/RateLimitConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sharesync/sharesync_user_service/controller/SignUpController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sharesync/sharesync_user_service/controller/SignUpController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sharesync/sharesync_user_service/dto/AccountDetailsDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sharesync/sharesync_user_service/dto/OtpRmqDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sharesync/sharesync_user_service/dto/SignUpRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sharesync/sharesync_user_service/exceptionHandler/GlobalExceptionHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sharesync/sharesync_user_service/exceptionHandler/GlobalExceptionHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sharesync/sharesync_user_service/exceptions/OtpExpiredException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sharesync/sharesync_user_service/exceptions/OtpLimitExceededException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sharesync/sharesync_user_service/exceptions/UserAlreadyExistException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sharesync/sharesync_user_service/jwt/JwtUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sharesync/sharesync_user_service/jwt/JwtUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sharesync/sharesync_user_service/model/UserProfile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sharesync/sharesync_user_service/repository/UserProfileRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sharesync/sharesync_user_service/service/OtpService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sharesync/sharesync_user_service/service/OtpService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sharesync/sharesync_user_service/service/SignUpService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sharesync-user-service-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/sharesync-user-service-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sharesync-user-service-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/target/sharesync-user-service-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.sharesync.sharesync_user_service.SharesyncUserServiceApplicationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.sharesync.sharesync_user_service.SharesyncUserServiceApplicationTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.sharesync.sharesync_user_service.SharesyncUserServiceApplicationTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.sharesync.sharesync_user_service.SharesyncUserServiceApplicationTests.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Exception" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2tOSd6N8uJZWGEyY87xAnZzKdJY" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.SharesyncUserServiceApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Docker.Dockerfile.executor&quot;: &quot;Run&quot;,
+    &quot;Docker.target/Dockerfile.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/kaviy/Downloads/sharesync-user-service/sharesync-user-service&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.29162833&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.SharesyncUserServiceApplication">
+    <configuration name="SharesyncUserServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <envs>
+        <env name="DB_URL_SHARESYNC_USER_SERVICE" value="jdbc:mysql://localhost:3306/sharesync_user_service_database" />
+        <env name="DB_USERNAME_SHARESYNC_USER_SERVICE" value="root" />
+        <env name="DB_PASSWORD_SHARESYNC_USER_SERVICE" value="Password08" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="com.sharesync.sharesync_user_service.SharesyncUserServiceApplication" />
+      <module name="sharesync-user-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sharesync.sharesync_user_service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="sourceFilePath" value="Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="dockerfile" temporary="true">
+      <deployment type="dockerfile">
+        <settings />
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="target/Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="buildOnly" value="true" />
+          <option name="sourceFilePath" value="target/Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SharesyncUserServiceApplication" />
+        <item itemvalue="Docker.Dockerfile" />
+        <item itemvalue="Docker.target/Dockerfile" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3550214c-bef1-4d0c-8735-ccbd26b27ec9" name="Changes" comment="" />
+      <created>1740221712143</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1740221712143</updated>
+    </task>
+    <servers />
+  </component>
+</project>
